@@ -5,7 +5,7 @@ UCSDFoldingMaps is a Java applet that uses the UnfoldingMaps API to display inte
 ## Features
 
 **UnfoldingMaps API:** Uses the UnfoldingMaps API to display interactive maps with a variety of data sets.
-**Customizable Data Sets: **The applet can be customized to display data sets of interest to the user, such as earthquake data, population density data, or weather data.
+**Customizable Data Sets:** The applet can be customized to display data sets of interest to the user, such as earthquake data, population density data, or weather data.
 **Interactive Map:** Allows users to zoom in and out of the map, click on individual markers to display more information, and filter data sets based on various criteria.
 
 ### How to Use UCSDFoldingMaps
